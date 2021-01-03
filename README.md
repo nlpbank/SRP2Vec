@@ -1,7 +1,7 @@
 # SRP2Vec:
 
 
-This page is about the source code and relevant data of "A". 
+This page is about the source code and relevant data of "Word sense disambiguation based on word similarity calculation using word vector representation from a knowledge-based graph." 
 
 Since the upload file is very large, the source code of our knowledge-based WSD and pretrained word vector representations the are available in "https://zenodo.org/record/4412086#.X_HDbtOP6Ul".
 
